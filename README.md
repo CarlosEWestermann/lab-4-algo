@@ -12,4 +12,4 @@ make
 
 ## Note
 
-removed larger test files as github would allow pushing them
+removed larger test files as github would not allow pushing them
