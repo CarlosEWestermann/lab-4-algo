@@ -8,6 +8,8 @@ To run the Hungarian algorithm implementation with an input file from the `test_
 make
 ./hungarian < test_instances/instance_0000_n100_min.txt
 
+```
+
 ## Note
 
 removed larger test files as github would allow pushing them
